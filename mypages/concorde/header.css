@@ -1,0 +1,25 @@
+body{
+	background-color: #F8CBA6;
+	width: 100%;
+
+}
+
+img{
+	width: 40px;
+	height: 40px;
+}
+
+.web_site_name{
+	display: inline;
+}
+
+.search_logo{
+	height: 20px;
+	width: 20px;
+}
+
+.header_section{
+	display: flex;
+	flex-direction: row;
+	justify-co
+}

@@ -1,0 +1,52 @@
+body
+{
+	background-color: #e9eaf7;
+}
+
+#my_site
+{
+	width: 80%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#main_part
+{
+	width: 80%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#header_id 
+{	
+	width: 100%;
+}
+
+#footer_id 
+{
+	width: 100%;
+}
+
+#section_content_id
+{
+	width: 100%;
+	text-align: justify;
+
+}
+
+#aside_content_id
+{
+	width: 100%;
+}
+
+p 
+{
+	overflow-wrap: break-word;
+}

@@ -1,0 +1,50 @@
+
+
+#header_content_id
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#left_header_content_id
+{
+	
+}
+
+#right_header_content_id
+{
+	
+}
+
+#health_logo_id
+{
+	width: 70px;
+	height: 70px;
+	display: inline-block;
+}
+
+#page_name_id
+{
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 2em;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+#profile_image_id
+{
+	width: 70px;
+	height: 70px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#menu_bar_id
+{
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	vertical-align: top;
+}
